@@ -1,5 +1,5 @@
 # Mini-Project-2020-23-
-A Webpage to Display the Placement Details of Different Departments of our College.
+A Webpage to Display the Placement Details of Different Departments of our College.<br>
 It will List the Name and Linked in profile of Alumni's of our college.
 The Database will be updated on a yearly basis.
 Frontend Languages: HTML, CSS, JavaScript.
