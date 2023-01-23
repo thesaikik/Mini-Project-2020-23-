@@ -7,4 +7,9 @@ Backend Language: PHP with MySQL.<br>
 Other Resources: Tailwind CSS, VS Code.<br>
 
 Order of Tasks:<br>
-1. Home Page: a) Departments. b) About us. c) Contact me.
+1. Home Page: a) Departments. b) About us. c) Contact me.<br>
+2. Collecting Data From Various departments to Create a Database.<br>
+3. Contact Alumnis in order to collect their Linked in profiles.<br>
+4. Create Tables For Different Departments, Containing the list of Alumnis, Batch, Company Name, Linked in profile url.<br>
+5. Connect the Table with previously made Database.<br>
+6. Style the Whole Webpage using CSS.<br>
