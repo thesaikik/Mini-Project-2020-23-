@@ -8,7 +8,7 @@ Backend Language: PHP with MySQl.<br>
 Other Resources: Tailwind CSS, VS code.<br>
 
 Order of tasks:<br>
-1. Home Page: a) Home, b) Departments, c) About Us, d) Contact us.<br>
+1. Home Page: a) Home, b) Departments, c) About Us, d) Contact us.
 2.Collect data from various departments.<br>
 3.Contact Alumnis and collect their linked in profiles, get their consents to display their ID in the Webpage.<br>
 4.Create a Dropdown menu in the Departments Section of the Homepage.<br>
